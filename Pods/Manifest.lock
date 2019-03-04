@@ -1,0 +1,30 @@
+PODS:
+  - SQLite.swift (0.11.5):
+    - SQLite.swift/standard (= 0.11.5)
+  - SQLite.swift/standard (0.11.5)
+  - ZCRMiOS (0.0.5)
+
+DEPENDENCIES:
+  - SQLite.swift (~> 0.11.5)
+  - ZCRMiOS (from `https://github.com/zoho/CRM-iOSSDK.git`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SQLite.swift
+
+EXTERNAL SOURCES:
+  ZCRMiOS:
+    :git: https://github.com/zoho/CRM-iOSSDK.git
+
+CHECKOUT OPTIONS:
+  ZCRMiOS:
+    :commit: fc72ca24603e45e58f4a1c8119dff5563e472386
+    :git: https://github.com/zoho/CRM-iOSSDK.git
+
+SPEC CHECKSUMS:
+  SQLite.swift: 6e5356850bb1791459f8c16d6ee9195b28714a2e
+  ZCRMiOS: 0f3953eff018f1450f29dc1f01b1b381d28ffe93
+
+PODFILE CHECKSUM: 56e7747102c3327ceb982fe329322837e74b6535
+
+COCOAPODS: 1.5.3
